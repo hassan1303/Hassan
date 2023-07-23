@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer, Data Scientist
 -----------------------------
 
-Iam have learning web development and currently in data science
+Iam beeen learning web development and currently in data science
 
 * 🌍  I'm based in Kano
 * ✉️  You can contact me at [hassanmuhammadadam1@gmail.com](mailto:hassanmuhammadadam1@gmail.com)
