@@ -2,16 +2,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
   
 
-Web developer, Data Scientist
+Software Engineer, Data Scientist 
 -----------------------------
 
 I have been learning web development and currently in data science
 
 * 🌍  I'm based in Kano
 * ✉️  You can contact me at [hassanmuhammadadam1@gmail.com](mailto:hassanmuhammadadam1@gmail.com)
-* 🧠  I'm learning Web development , Data science
+* 🧠  I'm learning Web development , Data science and cousera courses
 * 🤝  I'm open to collaborating on web development and data science
-
+I Blog on Medium, below are some of my posts:
+     * [Introduction To Machine Learning](https://medium.com/@hassanmuhammadadam1/introduction-to-clustering-86ab9938cddd)
+     * [Introduction To Machine Learning](https://medium.com/@hassanmuhammadadam1/classification-with-machine-learning-bc7d120b2cc)
+     * [Introduction To Machine Learning](https://medium.com/@hassanmuhammadadam1/regression-with-machine-learning-1fef2371b809)
+     * [Introduction To Machine Learning](https://medium.com/@hassanmuhammadadam1/a-description-of-natural-language-processing-8f47c1cf49)
+     * [Introduction To Machine Learning](https://medium.com/@hassanmuhammadadam1/introduction-to-sentimental-analysis-55e332364c80)
 <a href="https://www.github.com/hassan1303" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hassan1303?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/HassanM56678180" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HassanM56678180?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
